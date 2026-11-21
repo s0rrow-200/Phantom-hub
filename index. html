@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PHANTOM HUB</title>
+<style>
+body {
+  background: #080808;
+  color: white;
+  font-family: Arial;
+  text-align: center;
+}
+.panel {
+  background: #171717;
+  border: 2px solid red;
+  border-radius: 18px;
+  padding: 20px;
+  margin: 30px auto;
+  max-width: 350px;
+}
+h1 { color: #ff2222; }
+button {
+  display: block;
+  width: 100%;
+  padding: 15px;
+  margin: 12px 0;
+  background: #350909;
+  color: white;
+  border: 1px solid red;
+  border-radius: 10px;
+  font-size: 16px;
+}
+</style>
+</head>
+<body>
+<div class="panel">
+<h1>👻 PHANTOM HUB</h1>
+<p>99 NIGHTS IN THE FOREST</p>
+<button onclick="alert('God Mode - Demo')">🛡️ GOD MODE</button>
+<button onclick="alert('Fly - Demo')">🪽 FLY</button>
+<button onclick="alert('Give Items - Demo')">🎁 GIVE ITEMS</button>
+<button onclick="alert('Better Vision - Demo')">👁️ BETTER VISION</button>
+</div>
+</body>
+</html>
